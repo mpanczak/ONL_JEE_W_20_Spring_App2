@@ -2,7 +2,9 @@ package pl.coderslab;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import pl.coderslab.beans.Captain;
 import pl.coderslab.beans.HelloWorld;
+import pl.coderslab.beans.Ship;
 
 @Configuration
 public class AppConfig {

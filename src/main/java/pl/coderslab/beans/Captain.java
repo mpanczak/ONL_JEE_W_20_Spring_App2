@@ -1,4 +1,4 @@
-package pl.coderslab;
+package pl.coderslab.beans;
 
 public class Captain {
     void startSailing() {
