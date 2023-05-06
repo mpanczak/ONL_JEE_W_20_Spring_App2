@@ -1,7 +1,7 @@
 package pl.coderslab.beans;
 
 public class Captain {
-    void startSailing() {
+    public void startSailing() {
         System.out.println("Start sailing..");
     }
 }
